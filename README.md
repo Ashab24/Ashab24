@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashab
-- 👀 I’m interested in Data Science and Data Analytics 
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Engineering and Data Science  
+- 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me humzaashab24@gmail.com
 
 <!---
